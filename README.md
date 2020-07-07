@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Software Engineer, programming enthusiast.
+
+I enjoy coding and bringing ideas to life.
+
 <!--
 **harshitkumar31/harshitkumar31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
