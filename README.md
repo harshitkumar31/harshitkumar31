@@ -1,6 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitkumar31&label=Profile%20views&color=0e75b6&style=flat" alt="harshitkumar31" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/c4094a92-99a1-42a2-9496-fba149aa2fd4.svg)](https://wakatime.com/@c4094a92-99a1-42a2-9496-fba149aa2fd4)
 
 
 # 💫 About Me:
