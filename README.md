@@ -8,7 +8,7 @@
 
 Hi 👋, I'm Harshit Kumar<br>I'm a Software Engineer, programming enthusiast.<br>
 
-🌱 Currently learning Rust<br>💬 Ask me about react, graphql
+💬 Ask me about react, graphql, rust
 
 
 ## 🌐 Socials:
